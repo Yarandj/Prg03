@@ -1,0 +1,40 @@
+{
+  "reizen": [
+    {
+      "details": [
+        {
+          "title": "Reizen met de trein",
+          "text": "Hier vindt u alle informatie over hoe treinen toegankelijk worden gemaakt",
+          "afbeelding": "trein.png"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "title": "Reizen met de bus",
+          "text": "Hier vindt u alle informatie over hoe bussen toegankelijk worden gemaakt",
+          "afbeelding": "bus.jpg"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "title": "Reizen met de tram",
+          "text": "Hier vindt u alle informatie over hoe trams toegankelijk worden gemaakt",
+          "afbeelding": "tram.jpg"
+        }
+      ]
+    },
+    {
+      "details": [
+        {
+          "title": "Reizen met de metro",
+          "text": "Hier vindt u alle informatie over hoe metro`s toegankelijk worden gemaakt",
+          "afbeelding": "metro.jpg"
+        }
+      ]
+    }
+  ]
+}
